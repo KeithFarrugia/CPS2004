@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 4/C++CostCalculationServer/build",
+  "command": "/usr/bin/g++  -I\"/home/keith/CPS2004/Assignment/Task 4/C++CostCalculationServer/build\" -g -o CMakeFiles/Calc_Server.dir/main.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 4/C++CostCalculationServer/main.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 4/C++CostCalculationServer/main.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 4/C++CostCalculationServer/build",
+  "command": "/usr/bin/g++  -I\"/home/keith/CPS2004/Assignment/Task 4/C++CostCalculationServer/build\" -g -o CMakeFiles/Calc_Server.dir/remotemap.pb.cc.o -c \"/home/keith/CPS2004/Assignment/Task 4/C++CostCalculationServer/remotemap.pb.cc\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 4/C++CostCalculationServer/remotemap.pb.cc"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 4/C++CostCalculationServer/build",
+  "command": "/usr/bin/g++  -I\"/home/keith/CPS2004/Assignment/Task 4/C++CostCalculationServer/build\" -g -o CMakeFiles/Calc_Server.dir/remotemap.grpc.pb.cc.o -c \"/home/keith/CPS2004/Assignment/Task 4/C++CostCalculationServer/remotemap.grpc.pb.cc\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 4/C++CostCalculationServer/remotemap.grpc.pb.cc"
+}
+]

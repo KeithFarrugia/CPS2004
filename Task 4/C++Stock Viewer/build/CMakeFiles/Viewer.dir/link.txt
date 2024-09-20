@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/Viewer.dir/main.cpp.o CMakeFiles/Viewer.dir/PBLogistics.pb.cc.o CMakeFiles/Viewer.dir/Stock.cpp.o -o Viewer  -lprotobuf libProductLibrary.a 

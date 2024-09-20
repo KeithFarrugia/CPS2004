@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+package remotemap;
+
+option java_package = "com.logistics.GRPC";
+
+service PBCalculations{
+    rpc calcCost(PBShipmentInfo) returns (Float);
+}
+
+
+message Float {
+    float result = 1;
+}
+
+message PBProductItem{
+    float price = 1;
+    float quantity = 2;
+    float discount = 3;
+    float packagingCost = 4;
+}
+message PBShipmentInfo{
+    float transportCost = 1;
+    repeated PBProductItem stock = 2;
+}

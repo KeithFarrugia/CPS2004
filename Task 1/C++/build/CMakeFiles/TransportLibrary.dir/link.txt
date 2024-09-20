@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTransportLibrary.a CMakeFiles/TransportLibrary.dir/Components/Transport/Transport.cpp.o CMakeFiles/TransportLibrary.dir/Components/Transport/AirTransport.cpp.o CMakeFiles/TransportLibrary.dir/Components/Transport/LandTransport.cpp.o CMakeFiles/TransportLibrary.dir/Components/Transport/SeaTransport.cpp.o
+/usr/bin/ranlib libTransportLibrary.a

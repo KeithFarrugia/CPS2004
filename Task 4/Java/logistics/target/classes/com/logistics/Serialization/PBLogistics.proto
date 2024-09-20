@@ -1,0 +1,165 @@
+syntax = "proto3";
+
+//============================================= PRODUCT =============================================
+message PBPackage{
+    int32 units = 1;
+    float costPerUnit = 2;
+}
+
+message PBProduct{
+    float cost = 1;
+    string name = 2;
+    string supplier = 3;
+    float discountAmount = 4;
+    PBPackage packaging = 5;
+}
+// =========================== PBApparel ===========================
+message PBApparel{
+    string material = 1;
+    PBProduct product = 2;
+}
+message PBAccessory{ // Accessory
+    string brand = 1;
+    PBApparel apparel = 2;
+}
+message PBClothing{ // Accessory
+    string style = 1;
+    PBApparel apparel = 2;
+}
+
+// =========================== PBConsumable ===========================
+message PBConsumable{
+    int32 calories = 1;
+    PBProduct product = 2;
+}
+message PBFood{ // Food
+    bool isCanned = 1;
+    PBConsumable consumable = 2;
+}
+message PBDrink{ // Drink
+    bool isCarbonated = 1;
+    PBConsumable consumable = 2;
+}
+// =========================== PBElectronics ===========================
+message PBElectronics{
+    string manufacturer = 1;
+    PBProduct product = 2;
+}
+message PBTech{ // Tech
+    string type = 1;
+    PBElectronics electronics = 2;
+}
+message PBAppliance{ // Appliance
+    string size = 1;
+    PBElectronics electronics = 2;
+}
+// =========================== PBFurniture ===========================
+
+message PBFurniture{
+    string material = 1;
+    PBProduct product = 2;
+}
+message PBDecor{ // Decor
+    string style = 1;
+    PBFurniture furniture = 2;
+}
+message PBStorage{ // Storage
+    int32 capacity = 1;
+    PBFurniture furniture = 2;
+}
+// =========================== PBGames ===========================
+message PBGames{
+    string genre = 1;
+    PBProduct product = 2;
+}
+message PBDigital{ // Digital
+    string developer = 1;
+    PBGames games = 2;
+}
+message PBPhysical{ // Physical
+   int32 numberOfPlayers = 1;
+    PBGames games = 2;
+}
+// =========================== PBFlora ===========================
+message PBFlora{
+    bool iscultivated = 1;
+    PBProduct product = 2;
+}
+message PBPlants{ // Plants
+    bool bearsFruit = 1;
+    PBFlora flora = 2;
+}
+message PBSeeds{ // Seeds
+    int32 expirationDays = 1;
+    PBFlora flora = 2;
+}
+
+//============================================= STOCK =============================================
+
+message PBStockItem{
+  int32 quantity = 1;
+  oneof product_type {
+    PBAccessory accessory = 2;
+    PBClothing clothing = 3;
+    PBFood food = 4;
+    PBDrink drink = 5;
+    PBAppliance appliance = 6;
+    PBTech tech = 7;
+    PBDecor decor = 8;
+    PBStorage storage = 9;
+    PBDigital digital = 10;
+    PBPhysical physical = 11;
+    PBPlants plants = 12;
+    PBSeeds seeds = 13;
+  }
+}
+message PBStock {
+    repeated PBStockItem stock = 1;
+}
+
+//============================================= Transport =============================================
+
+message PBTransport{
+    int32 code = 1;
+    float speed = 2;
+    float costPerMeter = 3;
+    string route = 4;
+}
+message PBAirTransport{
+    string model = 1;
+    PBTransport transport = 2;
+}
+message PBLandTransport{
+    string type = 1;
+    PBTransport transport = 2;
+}
+message PBSeaTransport{
+    string shipname = 1;
+    PBTransport transport = 2;
+}
+message PBTransportItem{
+    oneof product_type {
+        PBAirTransport airTransport = 1;
+        PBLandTransport landTransport = 2;
+        PBSeaTransport seaTransport = 3;
+    }
+}
+
+message PBTransportList {
+    repeated PBTransportItem transportList = 1;
+}
+
+//============================================= Shipment =============================================
+message PBShipment{
+    int32 ID = 1;
+    string customer = 2;
+    float distance = 3;
+    float cost = 4;
+    bool dispatched = 5;
+    PBStock productlist = 6;
+    PBTransportItem transport = 7;
+}
+
+message PBShipmentList{
+    repeated PBShipment shipmentList = 1;
+}

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/Main.dir/main.cpp.o CMakeFiles/Main.dir/CLI.cpp.o CMakeFiles/Main.dir/InputHandler.cpp.o CMakeFiles/Main.dir/Components/Shipment.cpp.o CMakeFiles/Main.dir/Components/Stock.cpp.o CMakeFiles/Main.dir/Components/ShipmentManager.cpp.o CMakeFiles/Main.dir/Components/TransportManager.cpp.o -o Main  libProductLibrary.a libTransportLibrary.a 

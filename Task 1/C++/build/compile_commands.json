@@ -1,0 +1,157 @@
+[
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Product.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Product.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Product.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Packaging.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Packaging.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Packaging.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Apparel.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Apparel.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Apparel.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Clothing.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Clothing.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Clothing.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Accessory.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Accessory.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Accessory.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Electronics.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Electronics.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Electronics.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Appliance.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Appliance.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Appliance.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Tech.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Tech.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Tech.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Consumable.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Consumable.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Consumable.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Drink.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Drink.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Drink.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Food.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Food.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Food.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Furniture.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Furniture.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Furniture.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Storage.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Storage.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Storage.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Decor.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Decor.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Decor.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Flora.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Flora.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Flora.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Seeds.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Seeds.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Seeds.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Plants.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Plants.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Plants.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Games.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Games.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Games.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Digital.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Digital.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Digital.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Components/Product/Physical.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Physical.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Product/Physical.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TransportLibrary.dir/Components/Transport/Transport.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Transport/Transport.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Transport/Transport.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TransportLibrary.dir/Components/Transport/AirTransport.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Transport/AirTransport.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Transport/AirTransport.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TransportLibrary.dir/Components/Transport/LandTransport.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Transport/LandTransport.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Transport/LandTransport.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TransportLibrary.dir/Components/Transport/SeaTransport.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Transport/SeaTransport.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Transport/SeaTransport.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Main.dir/main.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/main.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/main.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Main.dir/CLI.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/CLI.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/CLI.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Main.dir/InputHandler.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/InputHandler.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/InputHandler.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Main.dir/Components/Shipment.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Shipment.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Shipment.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Main.dir/Components/Stock.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/Stock.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/Stock.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Main.dir/Components/ShipmentManager.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/ShipmentManager.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/ShipmentManager.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 1/C++/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Main.dir/Components/TransportManager.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 1/C++/Components/TransportManager.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 1/C++/Components/TransportManager.cpp"
+}
+]

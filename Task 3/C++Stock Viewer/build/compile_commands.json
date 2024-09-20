@@ -1,0 +1,117 @@
+[
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Product.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Product.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Product.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Packaging.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Packaging.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Packaging.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Apparel.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Apparel.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Apparel.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Clothing.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Clothing.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Clothing.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Accessory.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Accessory.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Accessory.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Electronics.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Electronics.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Electronics.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Appliance.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Appliance.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Appliance.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Tech.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Tech.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Tech.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Consumable.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Consumable.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Consumable.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Drink.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Drink.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Drink.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Food.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Food.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Food.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Furniture.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Furniture.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Furniture.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Storage.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Storage.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Storage.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Decor.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Decor.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Decor.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Flora.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Flora.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Flora.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Seeds.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Seeds.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Seeds.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Plants.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Plants.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Plants.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Games.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Games.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Games.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Digital.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Digital.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Digital.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ProductLibrary.dir/Product/Physical.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Physical.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Product/Physical.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Viewer.dir/main.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/main.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/main.cpp"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Viewer.dir/PBLogistics.pb.cc.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/PBLogistics.pb.cc\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/PBLogistics.pb.cc"
+},
+{
+  "directory": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Viewer.dir/Stock.cpp.o -c \"/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Stock.cpp\"",
+  "file": "/home/keith/CPS2004/Assignment/Task 3/C++Stock Viewer/Stock.cpp"
+}
+]
